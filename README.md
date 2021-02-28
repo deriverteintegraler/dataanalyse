@@ -28,5 +28,17 @@ Del 5: 12:30-13:10
 Meeting ID: 980 1012 7744
 Passcode: 2126988655
 
+Del 6: 13:10-13:50
+Meeting ID: 967 8554 9726
+Passcode: 6766840061
+
+Del 7: 13:50-14:30
+Meeting ID: 961 7028 5553
+Passcode: 0346336885
+
+Del 8: 14:30-15:00
+Meeting ID: 946 3017 8044
+Passcode: 7678975731
+
 epost:
 deriverteintegraler@gmail.com
