@@ -15,14 +15,18 @@ Dette repositoriet brukes i streamet kurs i dataanalyse.
 
 Meeting ID: 932 3917 7453
 Passcode: 5086487034
+
 Del 3:
 Meeting ID: 965 5259 0260
 Passcode: 3113546608
+
 Del 4:
 Meeting ID: 918 8803 2403
 Passcode: 8985570951
+
 Del 5:
 Meeting ID: 980 1012 7744
 Passcode: 2126988655
+
 epost:
 deriverteintegraler@gmail.com
