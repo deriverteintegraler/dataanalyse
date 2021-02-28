@@ -42,3 +42,8 @@ Passcode: 7678975731
 
 epost:
 deriverteintegraler@gmail.com
+
+
+https://github.com/guipsamora/pandas_exercises
+
+https://www.kaggle.com/datasets
