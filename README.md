@@ -12,36 +12,6 @@ Dette repositoriet brukes i streamet kurs i dataanalyse.
 3. Lim inn adressen til kursmateriellet i det øverste feltet.
 4. Trykk "Launch". Vent på mybinder. Det kan ta fra et halvt minutt til ti minutter å kjøre denne prosessen.
 
-Del 2: 10:30-11:10
-Meeting ID: 932 3917 7453
-Passcode: 5086487034
-
-Del 3: 11:10-11:50
-Meeting ID: 965 5259 0260
-Passcode: 3113546608
-
-Del 4: 11:50-12:30
-Meeting ID: 918 8803 2403
-Passcode: 8985570951
-
-Del 5: 12:30-13:10
-Meeting ID: 980 1012 7744
-Passcode: 2126988655
-
-Del 6: 13:10-13:50
-Meeting ID: 967 8554 9726
-Passcode: 6766840061
-
-Del 7: 13:50-14:30
-Meeting ID: 961 7028 5553
-Passcode: 0346336885
-
-Del 8: 14:30-15:00
-Meeting ID: 946 3017 8044
-Passcode: 7678975731
-
-epost:
-deriverteintegraler@gmail.com
 
 
 https://github.com/guipsamora/pandas_exercises
