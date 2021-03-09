@@ -12,7 +12,7 @@ Dette repositoriet brukes i streamet kurs i dataanalyse.
 3. Lim inn adressen til kursmateriellet i det øverste feltet.
 4. Trykk "Launch". Vent på mybinder. Det kan ta fra et halvt minutt til ti minutter å kjøre denne prosessen.
 
-
+# To lenker vi skal se på i løpet av kurset
 
 https://github.com/guipsamora/pandas_exercises
 
